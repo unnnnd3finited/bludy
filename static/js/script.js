@@ -8,7 +8,7 @@ const songs = [
   {
     title: "nope your too late i already died (slowed)",
     artist: "wifiskeleton",
-    src: "songs/deds.mp3",
+    src: "static/songs/deds.mp3",
     plays: 12,
     favorite: true,
     weeklySession: true,
