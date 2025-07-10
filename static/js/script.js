@@ -1,7 +1,7 @@
 const commonGifs = [
-  "gifs/hi.gif",
-  "gifs/hello.gif",
-  "gifs/yo.gif",
+  "static/gifs/hi.gif",
+  "static/gifs/hello.gif",
+  "static/gifs/yo.gif",
 ];
 
 const songs = [
